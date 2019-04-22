@@ -1,0 +1,5 @@
+cbsd.conf
+vars.mk
+dervish/devserver.log
+dervish/src/theme/*
+dervish/src/output/*
