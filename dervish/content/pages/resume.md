@@ -1,6 +1,7 @@
 title: Resume
 date: 21.04.2019
 slug: resume
+status: hidden
 
 ##Rajko Dervišević
 

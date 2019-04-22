@@ -5,7 +5,14 @@ from __future__ import unicode_literals
 AUTHOR = 'dervish'
 SITENAME = 'Dervish'
 SITEURL = ''
-THEME='theme/blue-penguin'
+THEME = 'theme/green-penguin'
+INDEX_SAVE_AS = 'blog/index.html'
+DELETE_OUTPUT_DIRECTORY = True
+MENUITEMS = (
+    ('Blog','/blog'),
+    ('Resume','/pages/resume.html'),
+
+)
 
 PATH = 'content'
 

@@ -1,10 +1,9 @@
 title: Dervish drugi blog
 category: Blog
-tags: blog test site dervish
+tags: blog,test,site
 date: 21.04.2019
 modified: 21.04.2019
 
-###### Drugi blog
 Ovo je drugi blog i sada testiram nesto, kfdsahfjakjflsakdnlkjsakjd hallkdsja kkkdsalk hj
 dskj hakdjsahhhhhhhddddddddddddddddddddddddddddddd
 ddddddddsaaaafeagsadsaklll ad lkjsalkd ;lksadja jfdkjsanh;kjfd qhdkjh;jdsa ofdhlkjsa sa

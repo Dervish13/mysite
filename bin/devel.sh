@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /usr/src/dervish/src
+cd /usr/src/dervish
 
 echo "Starting devserver"
 echo "Log file is located in dervish/devserver.log"
