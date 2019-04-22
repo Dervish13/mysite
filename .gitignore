@@ -3,3 +3,4 @@ vars.mk
 dervish/devserver.log
 dervish/src/theme/*
 dervish/src/output/*
+dervish/src/__pycache__/*
