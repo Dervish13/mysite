@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'dervish'
 SITENAME = 'Dervish'
 SITEURL = ''
+THEME='theme/blue-penguin'
 
 PATH = 'content'
 

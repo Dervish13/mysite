@@ -1,6 +1,6 @@
 cbsd.conf
 vars.mk
-dervish/devserver.log
-dervish/src/theme/*
-dervish/src/output/*
-dervish/src/__pycache__/*
+devserver.log
+dervish/theme/*
+dervish/output/*
+dervish/__pycache__/*
