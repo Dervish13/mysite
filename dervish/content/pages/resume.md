@@ -1,13 +1,13 @@
 title: Resume
 date: 21.04.2019
-slug: resume
+save_as: resume/index.html
 status: hidden
 
 ##Rajko Dervišević
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis cras sed felis eget velit aliquet sagittis id. Pharetra sit amet aliquam id diam maecenas ultricies. Ut consequat semper viverra nam libero justo. Sodales neque sodales ut etiam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Posuere morbi leo urna molestie at. Eget mauris pharetra et ultrices. Sed faucibus turpis in eu. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Eget nunc lobortis mattis aliquam faucibus purus. Varius quam quisque id diam vel quam elementum.
 
-Eros donec ac odio tempor orci dapibus ultrices. Pharetra convallis posuere morbi leo. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Maecenas ultricies mi eget mauris pharetra. Nunc sed blandit libero volutpat. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Dolor sit amet consectetur adipiscing elit duis. Feugiat in ante metus dictum at. Sit amet cursus sit amet dictum sit amet justo. Aliquam ultrices sagittis orci a scelerisque purus semper.
+Eros donec acfdsa odio tempor orci dapibus ultrices. Pharetra convallis posuere morbi leo. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Maecenas ultricies mi eget mauris pharetra. Nunc sed blandit libero volutpat. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Dolor sit amet consectetur adipiscing elit duis. Feugiat in ante metus dictum at. Sit amet cursus sit amet dictum sit amet justo. Aliquam ultrices sagittis orci a scelerisque purus semper.
 
 Sed viverra ipsum nunc aliquet bibendum enim. Ut enim blandit volutpat maecenas volutpat. Duis convallis convallis tellus id interdum. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis viverra nibh cras pulvinar. Netus et malesuada fames ac turpis egestas integer eget aliquet. Quis risus sed vulputate odio. In vitae turpis massa sed elementum tempus egestas sed. Enim neque volutpat ac tincidunt vitae. Laoreet suspendisse interdum consectetur libero. Vehicula ipsum a arcu cursus vitae congue. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Morbi non arcu risus quis varius quam quisque. Nunc vel risus commodo viverra maecenas accumsan lacus. Aliquet bibendum enim facilisis gravida neque convallis a. Tempus urna et pharetra pharetra massa massa. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed.
 
