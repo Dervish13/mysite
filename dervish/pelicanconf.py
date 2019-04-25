@@ -3,10 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'dervish'
-SITENAME = 'Rajko Derviševć - Dervish'
+SITENAME = 'Rajko Dervišević - Dervish'
 SITEURL = ''
 THEME = 'theme/green-penguin'
 DISPLAY_PAGES_ON_MENU = False
+INDEX_SAVE_AS = 'blog/index.html'
 MENUITEMS = ()
 PATH = 'content'
 
