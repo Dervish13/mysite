@@ -6,3 +6,4 @@ status: hidden
 
 - ##FreeBSD user, Hacker, Security Researcher
 - ##Member of [Tilda Center](https://tilda.center/)
+- ## Contact: [Dervish13@tilda.center](mailto:Dervish13@tilda.center)
