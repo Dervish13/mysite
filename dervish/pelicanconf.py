@@ -12,7 +12,7 @@ MENUITEMS = ()
 PATH = 'content'
 LINKEDIN = "dervis13"
 GITHUB = "Dervish13"
-TWITTER = "dervis13_"
+TWITTER = "dervish13_"
 
 TIMEZONE = 'Europe/Belgrade'
 
