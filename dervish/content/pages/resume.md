@@ -5,12 +5,92 @@ status: hidden
 
 ##Rajko Dervišević
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis cras sed felis eget velit aliquet sagittis id. Pharetra sit amet aliquam id diam maecenas ultricies. Ut consequat semper viverra nam libero justo. Sodales neque sodales ut etiam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Posuere morbi leo urna molestie at. Eget mauris pharetra et ultrices. Sed faucibus turpis in eu. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Eget nunc lobortis mattis aliquam faucibus purus. Varius quam quisque id diam vel quam elementum.
+Student of final year of Faculty of Technical Sciences in Novi Sad, within the department of Electronics and Telecomunications. Finished middle school in the department of Electrical engineering. Hard working, always up for new challenge and ready to learn. Active Linux/FreeBSD for 4 years.
 
-Eros donec acfdsa odio tempor orci dapibus ultrices. Pharetra convallis posuere morbi leo. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Maecenas ultricies mi eget mauris pharetra. Nunc sed blandit libero volutpat. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Dolor sit amet consectetur adipiscing elit duis. Feugiat in ante metus dictum at. Sit amet cursus sit amet dictum sit amet justo. Aliquam ultrices sagittis orci a scelerisque purus semper.
+- Level of English knowledge: advanced written and communication skills in everyday and technical use.
+- Intermediate knowledge of Linux and FreeBSD operating systems
+- Experience in team work, and organizing small teams (3-5 people)
 
-Sed viverra ipsum nunc aliquet bibendum enim. Ut enim blandit volutpat maecenas volutpat. Duis convallis convallis tellus id interdum. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis viverra nibh cras pulvinar. Netus et malesuada fames ac turpis egestas integer eget aliquet. Quis risus sed vulputate odio. In vitae turpis massa sed elementum tempus egestas sed. Enim neque volutpat ac tincidunt vitae. Laoreet suspendisse interdum consectetur libero. Vehicula ipsum a arcu cursus vitae congue. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Morbi non arcu risus quis varius quam quisque. Nunc vel risus commodo viverra maecenas accumsan lacus. Aliquet bibendum enim facilisis gravida neque convallis a. Tempus urna et pharetra pharetra massa massa. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed.
+####Programming languages:
 
-Consequat nisl vel pretium lectus quam id leo in. Scelerisque eu ultrices vitae auctor eu augue ut lectus arcu. Consequat mauris nunc congue nisi vitae. Lobortis mattis aliquam faucibus purus in. Proin nibh nisl condimentum id venenatis a condimentum vitae. Tempor commodo ullamcorper a lacus vestibulum sed. Diam donec adipiscing tristique risus nec. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Sodales ut eu sem integer vitae justo eget. Quis viverra nibh cras pulvinar mattis nunc. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Libero enim sed faucibus turpis in eu mi bibendum. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Ipsum suspendisse ultrices gravida dictum fusce ut. Felis eget velit aliquet sagittis. Nec sagittis aliquam malesuada bibendum. Viverra adipiscing at in tellus integer feugiat scelerisque varius. Feugiat vivamus at augue eget arcu dictum. Tellus in hac habitasse platea dictumst vestibulum rhoncus est.
+- Intermediate knowledge of : Python, C, C++
 
-Metus aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Convallis a cras semper auctor neque vitae tempus quam pellentesque. Sed cras ornare arcu dui vivamus arcu felis bibendum ut. Ipsum suspendisse ultrices gravida dictum fusce ut. Lorem ipsum dolor sit amet consectetur. Dui nunc mattis enim ut. Elementum sagittis vitae et leo duis ut diam quam nulla. Nam at lectus urna duis. Nulla facilisi etiam dignissim diam quis enim lobortis. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Vitae tortor condimentum lacinia quis vel eros donec. Tortor consequat id porta nibh venenatis. Sed lectus vestibulum mattis ullamcorper velit sed. Faucibus in ornare quam viverra orci sagittis eu volutpat odio.
+####Skills:
+
+- Working in virtual environments like Jails, VirtualBox, or Vagrant
+- Basic knowledge of Shell scripting
+- Basic knowledge of Wireshark and packet analysis
+- Git versioning
+- Ansible provisioning
+
+####Active projects:
+
+1. Freelance FullStack Python developer (1.08.2019-now):
+	- Python/Flask
+	- React JS
+
+2. Implementing dummynet to FreeBSD packet filter (pf) (1.2.2019-now):
+	- C programming
+	- kernel and user side
+	- Bandwith control for containers and or services
+
+3. IT research lab Tilda Center:</p>
+  Tutoring (10.09.2018- now):
+    - C, C++ programming
+    - Linux and Unix course</li>
+</ul>
+<p>Projects:</p>
+<ul>
+    - Maintaining 2 of Tilda Center servers
+    - Gnui ( Library for C++ gui )
+    - Fisean ( Matrix chat client using C++ )
+    - Backend for https://tilda.center/
+    - Backend for https://pyser.org
+
+####Past projects:
+
+1. Intership at Levi9 as a DevOps engineer (10.09.2018-1.10.2018):
+	- Linux systems
+	- AWS and AWS management
+	- Learning from coleagues about responding to clients requests, fixing AWS, Docker, and server networking.
+
+2. Varadinn hostel (1.10.2016-31.12.2017) receptionist, night guard and technical support. Everyday work consisted of:
+	- Documenting check in/check out and sales
+	- Check in and check out of guests
+	- Filling out guests details, and handling reservations
+	- Keeping the rooms clean and ready for incoming guests
+	- Selling drinks and serving food for guests
+	- Maintaining network, ensuring connectivity and troubleshooting problems
+	- Charging guests for the stay and everyday work with money
+
+3. Member of student organization Eestec LC Novi Sad:
+	- Coordinator for the competition “5 Dana na Javi” ( 5 Days on Java)
+	- Handled a small team of volunteers for many projects
+	- Working as part of the team, in IT and logistics sector
+	- Attended educations of Soft and Hard skills
+
+4. Medrock Week:
+ 	In august 2017 I traveled to Ljubljana on education and workshop in collaboration with e-health company Marand.
+	- Worked as part of a team on developing solution during a week long workshop.
+	- Worked with Blockchain and etherium API
+	- Worked with medical students on gaining knowledge of problems in health care.
+
+5. I volunteered for many different organizations and events
+	- Bench press competition, sports center of Požarevac
+	-Basketball tournaments, sports center of Požarevac
+	- Football tournaments, sports center of Požarevac
+	- Recycling events with the city of Požarevac
+	- Technological and logistic support for Eestec events.
+
+
+
+
+6. Thanks to Eestec I've attended many educations and took part in workshops that helped me build soft skills like:
+	- Presenting
+	- Public speaking
+	- Work in smaller and bigger teams
+	- Task organizing
+	- Work in limited time period.
+
+Hobbies and interests:
+	Hacker, FLOSS supporter. 6 years Aikido experience. In my free time I keep educating my self in I.T. administration and security, which is my goal to build career and future education towards.
