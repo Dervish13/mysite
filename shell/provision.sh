@@ -5,4 +5,4 @@ id
 
 echo I am ${0}
 
-pkg install -y py36-pelican markdown gmake
+pkg install -y py37-pelican markdown gmake

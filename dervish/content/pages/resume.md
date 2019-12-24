@@ -1,4 +1,4 @@
-title: Resume
+title: Resume     <a href="./RajkoDervisevicCV.pdf" style="margin-left: 80px"> <button>Download PDF</button> </a>
 date: 21.04.2019
 save_as: resume/index.html
 status: hidden
@@ -94,3 +94,4 @@ Student of final year of Faculty of Technical Sciences in Novi Sad, within the d
 
 Hobbies and interests:
 	Hacker, FLOSS supporter. 6 years Aikido experience. In my free time I keep educating my self in I.T. administration and security, which is my goal to build career and future education towards.
+
