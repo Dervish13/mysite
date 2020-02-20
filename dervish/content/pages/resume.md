@@ -17,26 +17,24 @@ Student of final year of Faculty of Technical Sciences in Novi Sad, within the d
 
 ####Skills:
 
-- Working in virtual environments like Jails, VirtualBox, or Vagrant
-- Basic knowledge of Shell scripting
+- Virtual environments (Jails, VirtualBox, Vagrant)
+- Shell scripting
 - Basic knowledge of Wireshark and packet analysis
 - Git versioning
+- Cloud compute ( AWS, Google Cloud )
 - Ansible provisioning
 
 ####Active projects:
 
-1. Freelance FullStack Python developer (1.08.2019-now):
-	- Python/Flask
-	- React JS
-
-2. Implementing dummynet to FreeBSD packet filter (pf) (1.2.2019-now):
+1. Implementing dummynet to FreeBSD packet filter (pf) (1.2.2019-now):
 	- C programming
 	- kernel and user side
 	- Bandwith control for containers and or services
 
-3. IT research lab Tilda Center:</p>
+2. IT research lab Tilda Center:</p>
   Tutoring (10.09.2018- now):
     - C, C++ programming
+    - Python/React backend programming
     - Linux and Unix course</li>
 </ul>
 <p>Projects:</p>
@@ -49,12 +47,17 @@ Student of final year of Faculty of Technical Sciences in Novi Sad, within the d
 
 ####Past projects:
 
-1. Intership at Levi9 as a DevOps engineer (10.09.2018-1.10.2018):
+1. SYSIT Freelance FullStack Python developer (1.08.2019-1.02.2020):
+	- Python/Flask
+	- React JS
+    - FreeBSD
+
+2. Intership at Levi9 as a DevOps engineer (10.09.2018-1.10.2018):
 	- Linux systems
 	- AWS and AWS management
 	- Learning from coleagues about responding to clients requests, fixing AWS, Docker, and server networking.
 
-2. Varadinn hostel (1.10.2016-31.12.2017) receptionist, night guard and technical support. Everyday work consisted of:
+3. Varadinn hostel (1.10.2016-31.12.2017) receptionist, night guard and technical support. Everyday work consisted of:
 	- Documenting check in/check out and sales
 	- Check in and check out of guests
 	- Filling out guests details, and handling reservations
@@ -63,19 +66,19 @@ Student of final year of Faculty of Technical Sciences in Novi Sad, within the d
 	- Maintaining network, ensuring connectivity and troubleshooting problems
 	- Charging guests for the stay and everyday work with money
 
-3. Member of student organization Eestec LC Novi Sad:
+4. Member of student organization Eestec LC Novi Sad:
 	- Coordinator for the competition “5 Dana na Javi” ( 5 Days on Java)
 	- Handled a small team of volunteers for many projects
 	- Working as part of the team, in IT and logistics sector
 	- Attended educations of Soft and Hard skills
 
-4. Medrock Week:
+5. Medrock Week:
  	In august 2017 I traveled to Ljubljana on education and workshop in collaboration with e-health company Marand.
 	- Worked as part of a team on developing solution during a week long workshop.
 	- Worked with Blockchain and etherium API
 	- Worked with medical students on gaining knowledge of problems in health care.
 
-5. I volunteered for many different organizations and events
+6. I volunteered for many different organizations and events
 	- Bench press competition, sports center of Požarevac
 	-Basketball tournaments, sports center of Požarevac
 	- Football tournaments, sports center of Požarevac
@@ -85,7 +88,7 @@ Student of final year of Faculty of Technical Sciences in Novi Sad, within the d
 
 
 
-6. Thanks to Eestec I've attended many educations and took part in workshops that helped me build soft skills like:
+7. Thanks to Eestec I've attended many educations and took part in workshops that helped me build soft skills like:
 	- Presenting
 	- Public speaking
 	- Work in smaller and bigger teams
