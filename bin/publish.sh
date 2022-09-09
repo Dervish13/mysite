@@ -4,10 +4,11 @@
  export PROJECT_ROOT="${BIN_DIR}/.."
 
  PELICAN=pelican
- BASEDIR=/usr/src
+ BASEDIR=$PROJECT_ROOT
  INPUTDIR=$BASEDIR/dervish/content
  OUTPUTDIR=$BASEDIR/dervish/output
  CONFFILE=$BASEDIR/dervish/pelicanconf.py
 
- sudo cbsd jexec user=devel jname=mysite "$PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE"
- rsync -rv --delete-after --progress "${PROJECT_ROOT}/dervish/output/" r@dervish.cf:/usr/cbsd/jails-data/nginx-data/usr/local/www/dervish.cf/
+# sudo cbsd jexec user=devel jname=mysite "$PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE"
+$PELICAN $INPUTDIR -o $OUTPUTDIR -s $CONFFILE
+rsync -rv --delete-after --progress --rsync-path="sudo rsync" "${PROJECT_ROOT}/dervish/output/" provision@dervish.cf:/usr/cbsd/jails-data/nginx-data/usr/local/www/dervish.cf/
