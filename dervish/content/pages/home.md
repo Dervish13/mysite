@@ -4,6 +4,9 @@ URL:
 save_as: index.html
 status: hidden
 
-- ##FreeBSD user, Hacker, Security Researcher
+- ##FreeBSD/Linux Devops, Hacker, Security Researcher
 - ##Member of [Tilda Center](https://tilda.center/)
+- ## Contact: [rajko.dervisevic@gmail.com](mailto:rajko.dervisevic@gmail.com)
 - ## Contact: [Dervish13@tilda.center](mailto:Dervish13@tilda.center)
+
+
